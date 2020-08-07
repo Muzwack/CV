@@ -1,0 +1,18 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top: 4px dotted lightgrey;
+  width: 3%;
+}
+
+h1 {
+  color: #66bfbf;
+  text-decoration-style: dashed;
+}
+
+h3 {
+  color: #66bfbf;
+}
